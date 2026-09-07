@@ -1,0 +1,15 @@
+# Python dependencies for ZIP to APK conversion
+# نیازمندی‌های Python برای تبدیل ZIP به APK
+
+# No external dependencies required
+# The script uses only Python standard library:
+# - os
+# - sys
+# - zipfile
+# - subprocess
+# - shutil
+# - pathlib
+# - tempfile
+
+# Optional: for enhanced functionality
+colorama>=0.4.4  # رنگین کردن خروجی
