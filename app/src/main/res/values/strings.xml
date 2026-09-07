@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZIP سے APK تبدیلی</string>
+    <string name="select_file">ZIP فائل منتخب کریں</string>
+    <string name="convert_to_apk">APK میں تبدیل کریں</string>
+    <string name="no_file_selected">کوئی فائل منتخب نہیں</string>
+    <string name="select_zip_first">براہ کرم ZIP فائل منتخب کریں</string>
+    <string name="converting">تبدیل کیا جا رہا ہے...</string>
+    <string name="conversion_complete">تبدیلی مکمل!</string>
+    <string name="conversion_failed">تبدیلی ناکام</string>
+</resources>
